@@ -31,7 +31,7 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-image: url(/imagenes/azuul.jpg);
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     color: whitesmoke;
 }
 
