@@ -8,12 +8,13 @@ body {
     font-size: 16px; 
     line-height: 32px;
     font-family:Ubuntu,sans-serif;
-    color:#381043;
+    color:#040b63;
+    border-color: rgb(9, 9, 87);
 }
 
 h1 {
     font-size: 2rem;
-    color:#381043;
+    color:white;
 }
 
 h2 {
@@ -30,7 +31,7 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-color:#8A6694;
+    background-image: url(/imagenes/azuul.jpg);
     color: whitesmoke;
 }
 
