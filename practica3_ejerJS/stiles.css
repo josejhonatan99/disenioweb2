@@ -1,0 +1,21 @@
+body{
+    background: rgb(0, 113, 128);
+    color: white;
+}
+.mega{
+    display: inline;
+}
+.conten{
+    display: inline;
+}
+form{
+    width: 300px;
+    margin: 5px;
+    padding: 20px;
+    background: turquoise;
+   
+}
+input{
+    margin: 5px;
+    padding: 5px;
+}
